@@ -1,10 +1,3 @@
-# TODO: 
+# About this repo
 
-- experiment with housing and titanic datasets on
-
-1. combining features
-2. more feature engineering techniques 
-3. `IMPORTANT` using DVC and experiment tracking best practices
-
-
-# Do this after the 2nd deliverable! 
+This repo contains the code used for preprocessing the Iris and Titanic datasets from Kaggle for testing a [learning project](https://github.com/Thomson-Lam/3307-ml-cpp) of building a machine learning framework in C++. 
